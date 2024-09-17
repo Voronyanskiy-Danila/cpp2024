@@ -21,7 +21,7 @@ int main()
         b = c;
         c = a + b;
 
-        std::cout << c;
+        std::cout << c << " ";
 
         k++;
 
